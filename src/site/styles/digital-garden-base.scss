@@ -38,9 +38,8 @@ body {
 }
 
 div.transclusion {
-    border-left: 4px solid gray;
-    padding-left: 10px;
     position: relative;
+    padding: 8px;
     .markdown-embed-link {
         z-index: 99;
         display: block;
